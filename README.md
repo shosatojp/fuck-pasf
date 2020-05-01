@@ -1,6 +1,6 @@
 # Fuck PASF
 
-Remove People also search for
+Tampermonkey user script to remove people also search for from google.
 
 # Install
 
